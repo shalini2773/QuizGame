@@ -60,6 +60,32 @@ To get a copy of this project up and running on your local machine, follow these
 (QuizMaster screenshots/Screenshot(2).png)
 ![Screenshot of the quiz game]
 (QuizMaster screenshots/Screenshot(3).png)
+
+# Future Improvements
+1. Add a Timer: Implement a countdown timer for each question to increase the challenge.
+
+2. More Categories: Introduce additional categories for a wider variety of questions.
+
+3. Multiplayer Mode: Allow multiple players to compete against each other.
+
+# Contributing
+
+If you wish to contribute to this project, please follow these steps:
+
+1. Fork the repository.
+
+2. Create your feature branch (git checkout -b feature/YourFeature).
+
+3. Commit your changes (git commit -m 'Add some feature').
+
+4. Push to the branch (git push origin feature/YourFeature).
+
+5. Open a Pull Request.
+
+# License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+   
      
      
 
