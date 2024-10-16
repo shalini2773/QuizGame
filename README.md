@@ -16,7 +16,6 @@ Welcome to **QuizMaster**, an engaging and interactive quiz game built using Jav
 - **Multiple Categories**: Choose from a variety of topics to test your knowledge.
 - **Score Tracking**: Keep track of your scores and challenge yourself to improve!
 
-
 ## Technologies Used
 - **Java**: The primary programming language used for the game logic.
 - **JavaFX**: The framework used to create the graphical user interface.
@@ -25,5 +24,27 @@ Welcome to **QuizMaster**, an engaging and interactive quiz game built using Jav
 To get a copy of this project up and running on your local machine, follow these steps:
 
 1. **Clone the Repository:**
-   ```bash
+   ```
    git clone https://github.com/yourusername/QuizMaster.git
+   ```
+2. **Navigate to the Project Directory:**
+   ```
+   cd QuizMaster
+   ```
+
+3. **Set Up JavaFX:**
+
+   - Download JavaFX SDK from Gluon.
+
+   - Follow the instructions to set up JavaFX in your IDE.
+
+4. **Run the Project:**
+
+   - Open the project in your favorite IDE (like Visual Studio Code).
+
+   - Run the MainFX.java file to start the game.
+     
+     
+
+
+
