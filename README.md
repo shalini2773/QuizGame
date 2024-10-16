@@ -85,7 +85,9 @@ If you wish to contribute to this project, please follow these steps:
 # License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-   
+
+   ---
+Thank you for checking out QuizMaster! Enjoy testing your knowledge and have fun!
      
      
 
