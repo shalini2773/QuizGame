@@ -1,0 +1,23 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+    {
+    "label": "compile",
+    "type": "shell",
+    "command": "javac",
+    "args": [
+    "--module-path",
+    "E:/Java/javafx-sdk-23/lib",
+    "--add-modules",
+    "javafx.controls,javafx.fxml",
+     "E:/QuizGameProject/MainFX.java"
+    ],
+    "group": {
+    "kind": "build",
+    "isDefault": true
+    },
+    "problemMatcher": ["$javac"],
+    "detail": "Compiles Java files including JavaFX modules"
+    }
+    ]
+    }

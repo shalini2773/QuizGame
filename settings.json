@@ -1,0 +1,9 @@
+{
+    "java.project.referencedLibraries": [
+        "/E:/Java/javafx-sdk-23/lib/*.jar"
+    ],
+
+    "java.compile.nullAnalysis.mode": "automatic", 
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.jdt.ls.java.home": "C:\\Program Files\\Java\\jdk-22"
+}
