@@ -43,6 +43,23 @@ To get a copy of this project up and running on your local machine, follow these
    - Open the project in your favorite IDE (like Visual Studio Code).
 
    - Run the MainFX.java file to start the game.
+
+# How to Play
+1. Start the game and select a category.
+
+2. Answer questions to the best of your ability.
+
+3. Your score will be displayed at the end of the game.
+
+4. Challenge yourself to improve your score each time you play!
+
+# Screenshots
+![Screenshot of the quiz game]
+(QuizMaster screenshots/Screenshot(1).png) 
+![Screenshot of the quiz game]
+(QuizMaster screenshots/Screenshot(2).png)
+![Screenshot of the quiz game]
+(QuizMaster screenshots/Screenshot(3).png)
      
      
 
