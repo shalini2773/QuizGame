@@ -25,7 +25,7 @@ To get a copy of this project up and running on your local machine, follow these
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/yourusername/QuizMaster.git
+   git clone https://github.com/shalini2773/QuizMaster.git
    ```
 2. **Navigate to the Project Directory:**
    ```
